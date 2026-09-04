@@ -1,7 +1,7 @@
-import info from "./components/info";
-import about from "./components/about";
-import interest from "./components/interest";
-import footer from "./components/footer";
+import Info from "./components/Info";
+import About from "./components/About";
+import Interests from "./components/Interests";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
