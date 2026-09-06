@@ -10,8 +10,8 @@
 
 ## 📸 Preview
  
-<!-- Replace with a real screenshot after deployment -->
-<img width="480" alt="Sheilla Olga digital business card" src="./screenshots/card-preview.png">
+<img width="891" height="812" alt="Olga digital business card" src="https://github.com/user-attachments/assets/bf185d9b-d038-4002-97c8-64f751adfb95" />
+
 ---
  
 ## Why This Exists
