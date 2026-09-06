@@ -8,7 +8,7 @@ export default function App() {
     <div className="card-wrapper">
       <Info />
       <About />
-      <Interests />
+      <Interest />
       <Footer />
     </div>
   );
